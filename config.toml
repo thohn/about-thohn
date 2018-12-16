@@ -1,0 +1,4 @@
+baseURL = "https://thohn.github.io/"
+languageCode = "en-ca"
+title = "Timo Hohn"
+theme = "hugo-uilite"

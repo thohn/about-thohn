@@ -1,0 +1,9 @@
+{
+    "title": "Skills",
+    "skills": {
+        "C++ & Qt": "95",
+        "Javascript, HTML & CSS": "90",
+        "Requirements & Business Analysis": "75",
+        "DevOps & IT": "60"
+    }
+}

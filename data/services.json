@@ -1,0 +1,24 @@
+{
+    "title": "Services",
+    "services": [{
+            "icon": "bezier-curve",
+            "title": "Software Design",
+            "description": ""
+        },
+        {
+            "icon": "file-code",
+            "title": "Programming",
+            "description": ""
+        },
+        {
+            "icon": "hdd",
+            "title": "DevOps",
+            "description": ""
+        },
+        {
+            "icon": "business-time",
+            "title": "Business Analysis",
+            "description": ""
+        }
+    ]
+}

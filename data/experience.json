@@ -1,0 +1,12 @@
+{
+    "title": "Experience",
+    "experience": [{
+        "timeperiod": "Oct 2013 - Present",
+        "company": "Willowglen Systems",
+        "description": "Software team leader. Roles are to generate technical requirements, software design documents and work with small teams to implement the designs."
+    }, {
+        "timeperiod": "Summers of 2010, 2011, 2012, 2013",
+        "company": "Our Lady Queen of Peace",
+        "description": "Landscaper and Maintenance Personnel."
+    }]
+}
