@@ -1,6 +1,7 @@
 {
     "title": "Skills",
     "skills": {
+        "SCADA": "90",
         "C++ & Qt": "95",
         "Javascript, HTML & CSS": "90",
         "Requirements & Business Analysis": "75",
